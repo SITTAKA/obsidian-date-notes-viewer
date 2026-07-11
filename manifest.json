@@ -1,0 +1,10 @@
+{
+  "id": "date-notes-viewer",
+  "name": "Date Notes Viewer",
+  "version": "0.2.1",
+  "minAppVersion": "1.4.0",
+  "description": "Browse notes by their date-created frontmatter with a GitHub-style contribution graph, monthly calendar, and per-day writing stats.",
+  "author": "SITTAKA",
+  "authorUrl": "https://github.com/SITTAKA",
+  "isDesktopOnly": false
+}
